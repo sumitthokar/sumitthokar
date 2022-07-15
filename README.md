@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sumitthokar
-- 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in data science and machine learning.
 - 💞️ I’m looking to collaborate on anything for experience.
 - 📫 How to reach me email-sumitthokar129@gmail.com
 <!---
